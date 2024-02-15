@@ -1,162 +1,123 @@
+
 [
-    {
-        "dia": 1,
-        "semana": "segunda",
-        "fat": 0
-    },
-    {
-        "dia": 2,
-        "semana": "terca",
-        "fat": 2000
-    },
-    {
-        "dia": 3,
-        "semana": "quarta",
-        "fat": 3045
-    },
-    {
-        "dia": 4,
-        "semana": "quinta",
-        "fat": 4500
-    },
-    {
-        "dia": 5,
-        "semana": "sexta",
-        "fat": 1999
-    },
-    {
-        "dia": 6,
-        "semana": "sabado",
-        "fat": 0
-    },
-    {
-        "dia": 7,
-        "semana": "domingo",
-        "fat": 0
-    },
-    {
-        "dia": 8,
-        "semana": "segunda",
-        "fat": 2020
-    },
-    {
-        "dia": 9,
-        "semana": "terca",
-        "fat": 3000
-    },
-    {
-        "dia": 10,
-        "semana": "quarta",
-        "fat": 7800
-    },
-    {
-        "dia": 11,
-        "semana": "quinta",
-        "fat": 5550
-    },
-    {
-        "dia": 12,
-        "semana": "sexta",
-        "fat": 8220
-    },
-    {
-        "dia": 13,
-        "semana": "sabado",
-        "fat": 0
-    },
-    {
-        "dia": 14,
-        "semana": "domingo",
-        "fat": 0
-    },
-    {
-        "dia": 15,
-        "semana": "segunda",
-        "fat": 6150
-    },
-    {
-        "dia": 16,
-        "semana": "terca",
-        "fat": 7000
-    },
-    {
-        "dia": 17,
-        "semana": "quarta",
-        "fat": 6800
-    },
-    {
-        "dia": 18,
-        "semana": "quinta",
-        "fat": 4425
-    },
-    {
-        "dia": 19,
-        "semana": "sexta",
-        "fat": 3500
-    },
-    {
-        "dia": 20,
-        "semana": "sabado",
-        "fat": 0
-    },
-    {
-        "dia": 21,
-        "semana": "domingo",
-        "fat": 0
-    },
-    {
-        "dia": 22,
-        "semana": "segunda",
-        "fat": 8990
-    },
-    {
-        "dia": 23,
-        "semana": "terca",
-        "fat": 4789
-    },
-    {
-        "dia": 23,
-        "semana": "quarta",
-        "fat": 4789
-    },
-    {
-        "dia": 24,
-        "semana": "quinta",
-        "fat": 5900
-    },
-    {
-        "dia": 25,
-        "semana": "sexta",
-        "fat": 9000
-    },
-    {
-        "dia": 26,
-        "semana": "sabado",
-        "fat": 0
-    },
-    {
-        "dia": 27,
-        "semana": "domingo",
-        "fat": 0
-    },
-    {
-        "dia": 28,
-        "semana": "segunda",
-        "fat": 8500
-    },
-    {
-        "dia": 29,
-        "semana": "terca",
-        "fat": 9670
-    },
-    {
-        "dia": 30,
-        "semana": "quarta",
-        "fat": 0
-    },
-    {
-        "dia": 31,
-        "semana": "quinta",
-        "fat": 0
-    }
+	{
+		"dia": 1,
+		"valor": 22174.1664
+	},
+	{
+		"dia": 2,
+		"valor": 24537.6698
+	},
+	{
+		"dia": 3,
+		"valor": 26139.6134
+	},
+	{
+		"dia": 4,
+		"valor": 0.0
+	},
+	{
+		"dia": 5,
+		"valor": 0.0
+	},
+	{
+		"dia": 6,
+		"valor": 26742.6612
+	},
+	{
+		"dia": 7,
+		"valor": 0.0
+	},
+	{
+		"dia": 8,
+		"valor": 42889.2258
+	},
+	{
+		"dia": 9,
+		"valor": 46251.174
+	},
+	{
+		"dia": 10,
+		"valor": 11191.4722
+	},
+	{
+		"dia": 11,
+		"valor": 0.0
+	},
+	{
+		"dia": 12,
+		"valor": 0.0
+	},
+	{
+		"dia": 13,
+		"valor": 3847.4823
+	},
+	{
+		"dia": 14,
+		"valor": 373.7838
+	},
+	{
+		"dia": 15,
+		"valor": 2659.7563
+	},
+	{
+		"dia": 16,
+		"valor": 48924.2448
+	},
+	{
+		"dia": 17,
+		"valor": 18419.2614
+	},
+	{
+		"dia": 18,
+		"valor": 0.0
+	},
+	{
+		"dia": 19,
+		"valor": 0.0
+	},
+	{
+		"dia": 20,
+		"valor": 35240.1826
+	},
+	{
+		"dia": 21,
+		"valor": 43829.1667
+	},
+	{
+		"dia": 22,
+		"valor": 18235.6852
+	},
+	{
+		"dia": 23,
+		"valor": 4355.0662
+	},
+	{
+		"dia": 24,
+		"valor": 13327.1025
+	},
+	{
+		"dia": 25,
+		"valor": 0.0
+	},
+	{
+		"dia": 26,
+		"valor": 0.0
+	},
+	{
+		"dia": 27,
+		"valor": 25681.8318
+	},
+	{
+		"dia": 28,
+		"valor": 1718.1221
+	},
+	{
+		"dia": 29,
+		"valor": 13220.495
+	},
+	{
+		"dia": 30,
+		"valor": 8414.61
+	}
 ]
