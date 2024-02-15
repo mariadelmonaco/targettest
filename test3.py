@@ -11,8 +11,7 @@ for i in range(1, len(jsonData), 1):
         total = total + fat
     if fat != 0 and fat > 0:
         size += 1
-print(total)
-print(size)
+
 
 average = total/size
 
